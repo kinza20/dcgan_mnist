@@ -1,4 +1,4 @@
-Absolutely! Here’s the **complete README.md content** in one block of text — ready to copy-paste into your GitHub repository:
+
 
 ```markdown
 # dcgan_mnist
@@ -94,7 +94,6 @@ This project is open-source under the MIT License.
 
 ---
 
-If you want, I can also **enhance it with a small “Sample Output” image section** so your GitHub repo looks **more professional and visually appealing**.  
 
 Do you want me to do that?
 ```
